@@ -6,7 +6,7 @@ After building original Rook i need to reprint some parts due to their bad dimen
 
 In this mod i'm adding some features i missed in the original rook and i'm making it easier to build.
 
-![image of Rook 3D Printer]('Build pictures/Rook.PNG')
+![image of Rook 3D Printer](Build_pictures/Rook.PNG)
 
 ### Major changes:
 
