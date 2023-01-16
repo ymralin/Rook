@@ -1,37 +1,23 @@
 # Rook
 
-### NOTE
+My mod of the Rook printer.
 
-### A quick note for everyone I will be to a massive overhaul of the original Rook called the Rook Evolution! This is going to be the final form of the printer with a ton of fixes and changes. The Rook Evolution will be available for  a small fee ( $10 CND )for the STL's as I am going to be building a website / manuals / paying for Github bandwidth. This will probably be a patreon tier. Rook Legacy and Rook 180 will always be free.
+After building original Rook i need to reprint some parts due to their bad dimensional accuracy caused by some issues with my other printer that i used for printing Rook.
 
-Welcome to the DIY 3D Printer called Rook!
+In this mod i'm adding some features i missed in the original rook and i'm making it easier to build.
 
-This is a tiny mostly 3d printed CoreXY printer with a build volume of 120x120
+### Major changes:
 
-![image of Rook 3D Printer](Build_Photos/rook.png)
+* it's possible to use bolts with nuts instead of threaded heat inserts
 
-### PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS!
+* there are some extra holes in the frame for unpredicted additions, cable management, etc
 
-The goal of this printer is to make a cheap easy to build 3D printer than can be built by anyone.
+* mounts for motors A and B have the same height of the element that colides with the carriage for better sensorless homing of Y axis
 
-## Features:
+* idler towers 
 
-- 3D Printed Frame
-- CoreXY
-- Dual Lead Screws
-- Only Roughly $260 USD in cost
+* 2 more mounting poins for board plate at the bottom frame for easier attachment of bigger mounts
 
-## Build F.A.Q
+* hole spacings are more rounded to make adding new modifications easier (no more distances with 3 random decimal points)
 
-- I print with 3 walls and 15 percent infill, if you want stronger go 4 walls 20 percent infill should be plenty
-- I use PLA-PRO for the prototype and it worked well, ABS and ASA would be great too
-- My Discord server has alot of mods for the Rook check it out
-- This printer uses some heatset inserts in key places
-- This printer uses all F695 bearings now no more 20t idlers
-- There are slots in the motor mounts to tension the belts
-
-### [BOM on Google Drive](https://docs.google.com/spreadsheets/d/1oHDEvndkkvPFOBis4atrHRHK_DMTvttFUFWDg2He6To/edit#gid=0)
-
-### [Videos on Youtube](https://www.youtube.com/playlist?list=PLypdl9fsWkKeaa7d5Pv2bP5feIVcw-To2)
-
-### [Support me on Patreon](https://www.patreon.com/rolohaun)
+### The original Rook can be found [here](https://github.com/rolohaun/Rook)
